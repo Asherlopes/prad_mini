@@ -1,1 +1,1 @@
-# Disease Predication System
+# Disease Prediction System
